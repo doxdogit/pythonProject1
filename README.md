@@ -1,3 +1,2 @@
-# pythonProject1
-Aprendiendo matematicas muy facil
+#CODING
 En coding se va a encontrar un programa en el cual usted coloca dos numeros y el programa sumara, restara, mutiplicara, y dividira el numero que usted coloco.
